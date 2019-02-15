@@ -1,0 +1,17 @@
+{
+    "name": "kxdevel/exp1",
+    "description": "Such nice component...",
+    "authors": [
+        {
+            "name": "Francisco Camargos",
+            "email": "kxdevel@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Exp1\\": "src/"
+
+        }
+    },
+    "require": {}
+}
